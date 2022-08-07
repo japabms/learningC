@@ -36,6 +36,6 @@ Aplicação no "archives.c".
 Função para escrever caracteres em um arquivo;
 >fputc(int ch, FILE *arq);
 
-#cansei já
+#### cansei já
 
 
